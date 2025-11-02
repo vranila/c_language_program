@@ -12,3 +12,15 @@ This collection helps you:
 -> Learn modular programming with functions
 -> Get hands-on with pointers and recursion
 -> Build a foundation for advanced topics like data structures
+
+
+Requirements
+Install any standard C compiler:
+Windows: Code::Blocks, Turbo C++, or MinGW (GCC)
+
+Check your setup:
+gcc --version
+
+Compile and run a program:
+gcc program_name.c -o program_name.exe
+program.exe
