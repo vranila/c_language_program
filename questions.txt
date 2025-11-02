@@ -1,0 +1,53 @@
+1. Convert Miles to Kilometers
+2. Convert Temperature from Celsius to Fahrenheit
+3. Find the Distance Traveled by an Object
+4. Swap Values Stored in Two Variables
+5. Calculate Area and Circumference of a Circle
+6. Find the Sum of n Natural Numbers
+7. Find the Sum of Squares of n Natural Numbers
+8. Print the Digit at Ones Place of a Given Number
+9. Calculate the Square of a Number
+10. Calculate the Simple Average of Two Numbers
+11. Find the Remainder of a Division
+12. Convert Minutes into Hours and Minutes
+13. Calculate the Perimeter of a Rectangle
+14. Calculate the Product of Two Numbers
+15. Find the Last Two Digits of a Given Number
+16. Convert Temperature to Kelvin
+17. Print the number only when it is divisible by 3
+18. Check whether the user secured distinction or not
+19. Check whether account balance is greater or lesser than minimum balance
+20. Find the largest of three numbers
+21. Check whether a given year is a leap year
+22. Check whether a number is odd or even
+23. Calculate the value of aⁿ, given two positive non-zero integers a and n
+24. Print all English alphabets from A to Z (each on a new line)
+25. Check whether the given number is a strong number
+26. Use switch-case to print English words for digits (1 to 10)
+27. Find the sum of positive and negative elements in a 1D array
+28. Read and print one-dimensional array elements
+29. Read and print two-dimensional array elements
+30. Perform matrix multiplication
+31. Read and display a string using scanf() and printf()
+32. Read integers into an array (max size 10), check if a value is first or last element
+33. Read and display string using gets() and puts()
+34. Search the occurrence of a given character in a string
+35. Find the transpose of a matrix
+36. Find the sum of two integers using pointers
+37. Swap two values (call by value and call by address)
+38. Demonstrate how a one-dimensional array works using pointers
+39. Display array elements in reverse order using pointers
+40. Demonstrate character pointer
+41. Demonstrate double pointer and multiple indirection
+42. Demonstrate how to call a function
+43. Function declarations before main(), with definitions outside main()
+44. Demonstrate formal and actual arguments
+45. Demonstrate local and global variables
+46. Perform addition, subtraction, multiplication, and division of two float numbers using functions
+47. Demonstrate different categories of functions
+48. Demonstrate function without arguments and without return value
+49. Demonstrate function with arguments and with return value
+50. Demonstrate function without arguments and with return value
+51. Find factorial of a number using recursion
+52. Display Fibonacci series up to n terms using recursion
+53. Demonstrate working of #if, #elif, and #endif preprocessor directives
